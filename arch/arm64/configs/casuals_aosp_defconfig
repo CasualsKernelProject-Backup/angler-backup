@@ -61,6 +61,7 @@ CONFIG_AUDIT=y
 # CasualsKernelProject setup
 #
 CONFIG_ZEN_INTERACTIVE=y
+CONFIG_QUICK_WAKEUP=y
 
 #
 # IRQ subsystem
